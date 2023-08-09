@@ -1,0 +1,159 @@
+.nav__menu{
+    width: 100%;
+    background-color: #f8f9fa !important;
+}
+.navbar-hotro li{
+    padding: 0 15px 0 0;
+}
+.head{
+    /* background-color:#413c3c; */
+    width: 1170px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin-left: 166px;
+    padding: 0 10px 0 0;
+}
+.fluid-1{
+    padding: 0;
+}
+.navbar-brand{
+    margin-left: 149px;
+    
+}
+.btn{
+    font-size: 14px;
+}
+.head__1{
+    float: left;
+}
+.head__2{
+    color: #fff;
+    margin-left: auto;
+    display: flex;
+    
+}
+.navbar-nav{
+    margin-left: 315px;
+    
+}
+#img-1{
+    width: 400px;  
+}
+.col__text{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container__heo{
+    padding: 90px;
+}
+.text__codi{
+    color: #96968d;
+}
+.botton__32{
+    background-color: #fffff9;
+    border: 1px solid #e2dfdf;
+    width: 124px;
+    height: 26px;
+    font-size: 12px;
+}
+/* thân 3 */
+.container__32{
+    padding: 100px 0 0 0;
+}
+.contine{
+    display: flex;
+}
+.text__ol{
+    padding: 30px 0 30px 0;
+    font-size: 1.5rem;
+    margin-top: 155px;
+}
+.video{
+    margin-left: -148px;
+}
+/* thân4 */
+.hiep__1{
+    margin-top: 100px;
+}
+.tieu{
+    color: #0f0f0f;
+    text-align: center;
+    margin-top: 100px;
+}
+.img_1{
+    width: 100px;
+    height: 100px;
+}
+.hiep__2{
+    background-color: #fffff9;
+}
+.anhhiep{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.anhhiep li i{
+    padding: 10px;
+}
+.card-123{
+    border: none;
+    padding-top: 50px;
+}
+.card-img{
+    width: 100%;
+    height: 650px;
+}
+.card-img-overlay{
+    background-color: #fffff9;
+    width: 400px;
+    height: 500px;
+    margin: auto auto;
+}
+.tieu-1{
+    color: #0f0f0f;
+    text-align: center;
+    margin-top: 20px;
+}
+.botton-1{
+    width: 110px;
+    margin: 50px auto;
+}
+.btn{
+    /* background-color:#F7D1CF; */
+    border: 1px solid #9c9c9c;
+    font-weight: 300px;
+    align-items: center;
+}
+/* kết */
+.container-1{
+    border-bottom: 1px solid #e2e2e0;
+}
+.foot{
+    padding: 50px 0 20px 0;
+    background-color: #ffffff;
+    width: 100%;
+    height: 300px;
+}
+.btn-1{
+    background-color: black;
+    color: #fff;
+}.atm{
+    display: flex;
+    padding-top: 20px;
+}
+.atm li a{
+    padding: 10px 13px 0 0;
+}
+.container-3{
+    list-style: none;
+    width: 100%;
+    display: flex;
+    background-color: #d4d4cd;
+    justify-content: space-between;
+}
+.container-3 li i{
+    margin-left: 205px;
+}
+.container-3 li p{
+    margin:0 184px 0 0;
+}

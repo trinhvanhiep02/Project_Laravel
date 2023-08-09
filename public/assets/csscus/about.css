@@ -1,0 +1,65 @@
+
+.car-100{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+/* ket */
+.container-1{
+    border-bottom: 1px solid #e2e2e0;
+}
+.foot{
+    padding: 50px 0 20px 0;
+    background-color: #ffffff;
+    width: 100%;
+    height: 300px;
+}
+.btn-1{
+    background-color: black;
+    color: #fff;
+}.atm{
+    display: flex;
+    padding-top: 20px;
+}
+.atm li a{
+    padding: 10px 13px 0 0;
+}
+.container-3{
+    list-style: none;
+    width: 100%;
+    display: flex;
+    background-color: #d4d4cd;
+    justify-content: space-between;
+}
+.container-3 li i{
+    margin-left: 205px;
+}
+.container-3 li p{
+    margin:0 184px 0 0;
+}
+.ket{
+    padding-top: 130px;
+}
+/* duoi */
+.card-123{
+    border: none;
+    padding-top: 50px;
+}
+.card-img{
+    width: 100%;
+    height: 280px;
+}
+.card-img-overlay{
+    background-color: #fffff9;
+    width: 600px;
+    height: 200px;
+    margin: 195px auto;
+    /* background-image: url(/thư/images/thuyen.png); */
+}
+.card__texxt{
+    text-align: center;
+}
+.card__texxt button{
+    background-color: #ffffff;
+    border: 1px solid #bbbbb8;
+}

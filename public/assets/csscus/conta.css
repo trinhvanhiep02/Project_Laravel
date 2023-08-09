@@ -1,0 +1,132 @@
+.nav__menu{
+    width: 100%;
+    background-color: #f8f9fa ;
+}
+.navbar-hotro li{
+    padding: 0 15px 0 0;
+}
+.head{
+    /* background-color:#413c3c; */
+    width: 1170px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin-left: 166px;
+    padding: 0 10px 0 0;
+}
+.fluid-1{
+    padding: 0;
+}
+.navbar-brand{
+    margin-left: 149px;
+    
+}
+.btn{
+    font-size: 14px;
+}
+.head__1{
+    float: left;
+}
+.head__2{
+    color: #fff;
+    margin-left: auto;
+    display: flex;
+    
+}
+.navbar-nav{
+    margin-left: 315px;
+    
+}
+#img-1{
+    width: 400px;  
+}
+.col__text{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container__heo{
+    padding: 90px;
+}
+.text__codi{
+    color: #96968d;
+}
+.botton__32{
+    background-color: #fffff9;
+    border: 1px solid #e2dfdf;
+    width: 124px;
+    height: 26px;
+    font-size: 12px;
+}
+/* Than 1 */
+/* .card-324{
+    width: 100%;
+    height: 100px;
+    background-image: url(/thư/images/nenhong.png);
+    background-repeat: round;
+    text-align: center;
+} */
+.car-100{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+.container-100k{
+    padding: 20px 0 5px 0;
+}
+.btn-1ti{
+    border: 1px solid #d8d6d6;
+}
+.colo__12{
+   padding-top: 20px;
+}
+.container{
+    margin-top: 40px;
+}
+.media{
+    margin: 30px 0;
+}
+.form-group{
+    margin: 22px 0;
+}
+
+.send{
+    width: 100%;
+    background-color:  #8f8e89 ;
+    border: none;
+    text-align: center;
+}
+/* ket */
+.container-1{
+    border-bottom: 1px solid #e2e2e0;
+}
+.foot{
+    padding: 50px 0 20px 0;
+    background-color: #ffffff;
+    width: 100%;
+    height: 300px;
+}
+.btn-1{
+    background-color: black;
+    color: #fff;
+}.atm{
+    display: flex;
+    padding-top: 20px;
+}
+.atm li a{
+    padding: 10px 13px 0 0;
+}
+.container-3{
+    list-style: none;
+    width: 100%;
+    display: flex;
+    background-color: #d4d4cd;
+    justify-content: space-between;
+}
+.container-3 li i{
+    margin-left: 205px;
+}
+.container-3 li p{
+    margin:0 184px 0 0;
+}
+.ket{
+    padding-top: 130px;
+}
